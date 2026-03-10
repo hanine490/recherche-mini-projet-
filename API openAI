@@ -1,0 +1,23 @@
+API OpenAI est un outil qui permet aux développeurs d’utiliser l’intelligence artificielle d’OpenAI dans leurs applications (site web, application mobile, logiciel, chatbot…). 
+*Une API (Application Programming Interface) est un pont de communication entre deux programmes.
+Elle permet à un logiciel d’utiliser les fonctions d’un autre logiciel automatiquement.
+Exemple:
+-Une application envoie une question à l’API.
+-L’API utilise l’IA pour analyser et répondre.
+-L’application reçoit la réponse et l’affiche à l’utilisateur.
+* API OpenAI :L’API OpenAI permet d’utiliser des modèles d’IA (comme ChatGPT) pour :
+-créer un chatbot intelligent
+-générer du texte
+-traduire des langues
+-résumer des textes
+-analyser des données
+-générer du code
+Elle fonctionne en envoyant une requête (request) et en recevant une réponse (response). 
+ on utilise l’API OpenAI pour:
+-créer des chatbots IA
+-automatiser des tâches
+-analyser du texte
+-créer des assistants intelligents
+-intégrer l’IA dans un site 
+*L’API OpenAI est une interface qui permet aux développeurs d’utiliser l’intelligence artificielle d’OpenAI dans leurs applications pour générer du texte, répondre aux questions ou créer des chatbots.
+

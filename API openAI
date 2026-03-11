@@ -5,7 +5,7 @@ Exemple:
 -Une application envoie une question à l’API.
 -L’API utilise l’IA pour analyser et répondre.
 -L’application reçoit la réponse et l’affiche à l’utilisateur.
-* API OpenAI :L’API OpenAI permet d’utiliser des modèles d’IA (comme ChatGPT) pour :
+* API OpenAI :L’API OpenAI permet d’utiliser des modèles d’IA  pour :
 -créer un chatbot intelligent
 -générer du texte
 -traduire des langues
